@@ -13,7 +13,7 @@ Second solo project from Scrimba's "Learn React"-course, focusing on passing pro
     </a>
     <span> | </span>
     <a href="https://scrimba.com/learn/learnreact">
-      Scrimba "Learn React for free"
+      Scrimba course
     </a>
   </h3>
 </div>
